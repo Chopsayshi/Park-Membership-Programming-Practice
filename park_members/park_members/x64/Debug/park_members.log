@@ -1,0 +1,3 @@
+﻿  members.c
+D:\c_practice\park_members\park_members\members.c(43,1): warning C4716: 'add': must return a value
+  park_members.vcxproj -> D:\c_practice\park_members\x64\Debug\park_members.exe
