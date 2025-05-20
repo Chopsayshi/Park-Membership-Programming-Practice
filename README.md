@@ -17,3 +17,6 @@ different C functions.
     - deleteMember should ask the user if they are sure then delete the members details if they say yes.
 - Update Member
     - update = firstName, lastName, dob, dateAdded, membershipType
+
+I intend to also make this same program in python alongside, as a means of translating my thoughts back and fourth. 
+In the hopes that it will help develop some deeper understanding of switching between syntax. 
