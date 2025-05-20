@@ -31,7 +31,7 @@
 
 - Membership Type
   - VARIABLE: Need to figure out how to store a list.
-  - PROMPT: "Select their membership tier: Monthly, Annualy, Lifetime ?"
+  - PROMPT: "Select their membership tier: Beginner, Intermediate, Advanced ?"
   - A lot to till define.
   - Errors if
     - Will define closer to implementation. (Sorry Waterfall </3)
